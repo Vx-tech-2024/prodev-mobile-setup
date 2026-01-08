@@ -30,7 +30,7 @@ export default function Index() {
                 Find your favorite place here
               </Text>
               <Text style={styles.textSmall}>
-                The best prices for over 2 
+                The best prices for over 2  
               </Text>
               <Text style={styles.textSmall}>
                 million properties worldwide
