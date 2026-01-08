@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
         fontSize: 17,
         color: 'white'
     },
-    SocialMediaButton: {
+    socialMediaButton: {
         borderWidth: 1,
         height: 50,
         justifyContent: 'center',

@@ -1,7 +1,7 @@
 import { Text, TextInput, View, TouchableOpacity, Image} from "react-native";
 import { styles } from "@/styles";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
-import {FontAwesome, Ionicons } from "@expo/vector-icons";
+import { FontAwesome, Ionicons } from "@expo/vector-icons";
 
 export default function Index() {
   return (
@@ -45,7 +45,7 @@ export default function Index() {
         </View>
 
         <View style={styles.socialMediaButtonGroup}>
-          <TouchableOpacity style={styles.SocialMediaButton}>
+          <TouchableOpacity style={styles.socialMediaButton}>
             <View 
             style={{
               flexDirection: "row",
